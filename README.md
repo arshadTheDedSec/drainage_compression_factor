@@ -184,7 +184,7 @@ the one Zenodo issues automatically on first release (see upload instructions).
 ```
 [Arshad S.](2026). Code and data supplement for "Climate-state-dependent design
 rainfall and the reliability of stationary infrastructure design in Central
-Bangladesh." Zenodo. [https://doi.org/10.5281/zenodo.XXXXXXX](https://doi.org/10.5281/zenodo.20736485)
+Bangladesh." Zenodo. https://doi.org/10.5281/zenodo.20736485
 ```
 
 ---
