@@ -1,9 +1,9 @@
 # Climate-State-Dependent Design Rainfall in Central Bangladesh
-### Code and Data Supplement — Paper 2
+### Code and Data Supplement 
 
 This repository accompanies the manuscript:
 
-> **[Author names to be inserted]** (2026). *Climate-state-dependent design rainfall
+> **[Arshad, S.]** (2026). *Climate-state-dependent design rainfall
 > and the reliability of stationary infrastructure design in Central Bangladesh.*
 > Submitted to *Journal of Hydrology* (under review).
 
@@ -182,9 +182,9 @@ GitHub; once deposited on Zenodo, replace the DOI badge and citation block below
 the one Zenodo issues automatically on first release (see upload instructions).
 
 ```
-[Author(s)]. (2026). Code and data supplement for "Climate-state-dependent design
+[Arshad S.](2026). Code and data supplement for "Climate-state-dependent design
 rainfall and the reliability of stationary infrastructure design in Central
-Bangladesh." Zenodo. https://doi.org/10.5281/zenodo.XXXXXXX
+Bangladesh." Zenodo. [https://doi.org/10.5281/zenodo.XXXXXXX](https://doi.org/10.5281/zenodo.20736485)
 ```
 
 ---
@@ -201,8 +201,9 @@ Derived data files (`data/derived_results/`, `figures/`) are released under
 
 ## 7. Contact
 
-Corresponding author: **[to be inserted]**
+Corresponding author: **[Sadman Arshad]**
 Institution: Bangladesh University of Engineering and Technology (BUET)
+Email: 2304052@ce.buet.ac.bd
 For data-access requests, reproducibility questions, or to report an issue with
 this repository, please open a GitHub Issue or contact the corresponding author
 directly.
