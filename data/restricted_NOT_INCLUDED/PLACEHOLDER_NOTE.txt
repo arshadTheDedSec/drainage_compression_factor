@@ -1,0 +1,26 @@
+WHAT'S MISSING FROM THIS FOLDER AND WHY
+=========================================
+
+The file `Station_Annual_Rainfall_Cleaned.csv` — the cleaned, station-level annual
+rainfall series that is the direct input to this study's GEV fitting pipeline — is
+INTENTIONALLY NOT INCLUDED in this deposit.
+
+Reason: the Bangladesh Meteorological Department (BMD) does not permit third-party
+redistribution of its raw or lightly-processed station rainfall records. Including
+this file here would violate that restriction.
+
+This empty folder (and this note) exist so that:
+  1. The repository's folder structure honestly documents what a full reproduction
+     requires, rather than silently omitting it.
+  2. Anyone trying to reproduce the analysis end-to-end knows exactly which file is
+     missing and where it would go.
+
+HOW TO GET THIS FILE
+---------------------
+See README.md, Section 3 ("Getting the raw rainfall data") for the two routes:
+  (a) request it directly from BMD, or
+  (b) contact the manuscript's corresponding author for guidance on the request
+      process and the exact station list / date range needed.
+
+Once you have it, place it at this path and the pipeline scripts in scripts/
+will pick it up as documented in README.md Section 2.

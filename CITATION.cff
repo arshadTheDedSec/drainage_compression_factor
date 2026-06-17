@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite both the manuscript and this repository."
+title: "Code and data supplement: Climate-state-dependent design rainfall and the reliability of stationary infrastructure design in Central Bangladesh"
+type: software
+authors:
+  - family-names: "[Last name]"
+    given-names: "[First name]"
+    affiliation: "Bangladesh University of Engineering and Technology (BUET)"
+repository-code: "https://github.com/[your-username]/[your-repo-name]"
+license: MIT
+version: 1.0.0
+date-released: "2026-06-17"
+preferred-citation:
+  type: article
+  title: "Climate-state-dependent design rainfall and the reliability of stationary infrastructure design in Central Bangladesh"
+  authors:
+    - family-names: "[Last name]"
+      given-names: "[First name]"
+  journal: "Journal of Hydrology"
+  status: "submitted"
+  year: 2026
